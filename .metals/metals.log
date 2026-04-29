@@ -1,0 +1,612 @@
+2026.04.29 22:02:11 INFO  Started: Metals version 1.6.7 in folders 'C:\Users\Usuario\Documents\UNIVERSIDAD\INFRAESTRUCTURA\BLOQUE02\INFRAESTRCUTURA-CANCER_MAMA\Practica6Alumnos' for client Visual Studio Code 1.117.0.
+2026.04.29 22:02:11 INFO  Memory monitor started
+2026.04.29 22:02:11 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.04.29 22:02:12 INFO  no build target found for C:\Users\Usuario\Documents\UNIVERSIDAD\INFRAESTRUCTURA\BLOQUE02\INFRAESTRCUTURA-CANCER_MAMA\Practica6Alumnos\src\test\java\com\uma\example\springuma\integration\PacienteControllerMockMvcIT.java. Using fallback presentation compiler.
+Apr 29, 2026 10:02:13 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6
+Apr 29, 2026 10:02:13 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+2026.04.29 22:02:12 INFO  no build target found for C:\Users\Usuario\Documents\UNIVERSIDAD\INFRAESTRUCTURA\BLOQUE02\INFRAESTRCUTURA-CANCER_MAMA\Practica6Alumnos\src\test\java\com\uma\example\springuma\integration\InformeControllerWebTestClientIT.java. Using fallback presentation compiler.
+2026.04.29 22:02:13 INFO  no build target found for C:\Users\Usuario\Documents\UNIVERSIDAD\INFRAESTRUCTURA\BLOQUE02\INFRAESTRCUTURA-CANCER_MAMA\Practica6Alumnos\src\test\java\com\uma\example\springuma\integration\PacienteControllerMockMvcIT.java. Using fallback presentation compiler.
+Apr 29, 2026 10:02:13 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8
+2026.04.29 22:02:12 INFO  no build target found for C:\Users\Usuario\Documents\UNIVERSIDAD\INFRAESTRUCTURA\BLOQUE02\INFRAESTRCUTURA-CANCER_MAMA\Practica6Alumnos\src\test\java\com\uma\example\springuma\integration\InformeControllerWebTestClientIT.java. Using fallback presentation compiler.
+2026.04.29 22:02:12 INFO  no build target found for C:\Users\Usuario\Documents\UNIVERSIDAD\INFRAESTRUCTURA\BLOQUE02\INFRAESTRCUTURA-CANCER_MAMA\Practica6Alumnos\src\test\java\com\uma\example\springuma\integration\InformeControllerWebTestClientIT.java. Using fallback presentation compiler.
+2026.04.29 22:02:13 INFO  Attempting to connect to the build server...
+2026.04.29 22:02:13 INFO  No running Bloop server found, starting one.
+Apr 29, 2026 10:02:14 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11
+2026.04.29 22:02:14 INFO  no build target found for C:\Users\Usuario\Documents\UNIVERSIDAD\INFRAESTRUCTURA\BLOQUE02\INFRAESTRCUTURA-CANCER_MAMA\Practica6Alumnos\src\test\java\com\uma\example\springuma\integration\InformeControllerWebTestClientIT.java. Using fallback presentation compiler.
+2026.04.29 22:02:14 INFO  no build target found for C:\Users\Usuario\Documents\UNIVERSIDAD\INFRAESTRUCTURA\BLOQUE02\INFRAESTRCUTURA-CANCER_MAMA\Practica6Alumnos\src\test\java\com\uma\example\springuma\integration\InformeControllerWebTestClientIT.java. Using fallback presentation compiler.
+2026.04.29 22:02:14 INFO  no build target found for C:\Users\Usuario\Documents\UNIVERSIDAD\INFRAESTRUCTURA\BLOQUE02\INFRAESTRCUTURA-CANCER_MAMA\Practica6Alumnos\src\test\java\com\uma\example\springuma\integration\InformeControllerWebTestClientIT.java. Using fallback presentation compiler.
+2026.04.29 22:02:15 INFO  Starting compilation server
+2026.04.29 22:02:16 INFO  no build target found for C:\Users\Usuario\Documents\UNIVERSIDAD\INFRAESTRUCTURA\BLOQUE02\INFRAESTRCUTURA-CANCER_MAMA\Practica6Alumnos\src\test\java\com\uma\example\springuma\integration\InformeControllerWebTestClientIT.java. Using fallback presentation compiler.
+2026.04.29 22:02:16 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Usuario\Documents\UNIVERSIDAD\INFRAESTRUCTURA\BLOQUE02\INFRAESTRCUTURA-CANCER_MAMA\Practica6Alumnos\.metals\bsp.trace.json or C:\Users\Usuario\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2026.04.29 22:02:17 INFO  time: Connected to build server in 3.93s
+2026.04.29 22:02:16 INFO  Connected to Build server: Bloop v2.0.19
+2026.04.29 22:02:17 INFO  time: Imported build in 0.16s
+Apr 29, 2026 10:02:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 23
+Apr 29, 2026 10:02:21 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 27
+Apr 29, 2026 10:02:21 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 30
+Apr 29, 2026 10:02:22 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 32
+2026.04.29 22:02:24 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+Apr 29, 2026 10:02:34 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 46
+2026.04.29 22:02:35 INFO  time: indexed workspace in 17s
+2026.04.29 22:03:08 INFO  compiling practica6-test (1 java source)
+2026.04.29 22:03:10 WARN  Unexpected javac output: Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing..
+2026.04.29 22:03:10 INFO  Note: Annotation processing is enabled because one or more processors were found
+2026.04.29 22:03:10 INFO  time: compiled Practica6-test in 2.23s
+Apr 29, 2026 10:03:56 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 127
+2026.04.29 22:05:24 INFO  compiling practica6-test (1 java source)
+2026.04.29 22:05:26 WARN  Unexpected javac output: Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing..
+2026.04.29 22:05:26 INFO  Note: Annotation processing is enabled because one or more processors were found
+2026.04.29 22:05:26 INFO  time: compiled Practica6-test in 2.27s
+2026.04.29 22:05:31 INFO  compiling practica6-test (1 java source)
+2026.04.29 22:05:33 WARN  Unexpected javac output: Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing..
+2026.04.29 22:05:33 INFO  Note: Annotation processing is enabled because one or more processors were found
+2026.04.29 22:05:33 INFO  time: compiled Practica6-test in 2.19s
+2026.04.29 22:05:48 INFO  compiling practica6-test (1 java source)
+2026.04.29 22:05:49 WARN  Unexpected javac output: Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing.
+C:\Users\Usuario\Documents\UNIVERSIDAD\INFRAESTRUCTURA\BLOQUE02\INFRAESTRCUTURA-CANCER_MAMA\Practica6Alumnos\src\test\java\com\uma\example\springuma\integration\PacienteControllerMockMvcIT.java:131: error: method listarPacientesPorMedico() is already defined in class PacienteControllerMockMvcIT
+    void listarPacientesPorMedico() throws Exception {
+         ^
+1 error.
+2026.04.29 22:05:49 INFO  Note: Annotation processing is enabled because one or more processors were found
+2026.04.29 22:05:49 WARN  javac exited with exit code 1
+2026.04.29 22:05:49 INFO  time: compiled Practica6-test in 1.48s
+2026.04.29 22:05:56 INFO  compiling practica6-test (1 java source)
+2026.04.29 22:05:58 WARN  Unexpected javac output: Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing..
+2026.04.29 22:05:58 INFO  Note: Annotation processing is enabled because one or more processors were found
+2026.04.29 22:05:58 INFO  time: compiled Practica6-test in 2.31s
+Apr 29, 2026 10:06:04 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 283
+Apr 29, 2026 10:06:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 294
+2026.04.29 22:06:07 INFO  compiling practica6-test (1 java source)
+2026.04.29 22:06:08 WARN  Unexpected javac output: Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing..
+2026.04.29 22:06:08 INFO  Note: Annotation processing is enabled because one or more processors were found
+2026.04.29 22:06:08 INFO  time: compiled Practica6-test in 2s
+2026.04.29 22:06:12 INFO  compiling practica6-test (1 java source)
+2026.04.29 22:06:14 WARN  Unexpected javac output: Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing..
+2026.04.29 22:06:14 INFO  Note: Annotation processing is enabled because one or more processors were found
+2026.04.29 22:06:14 INFO  time: compiled Practica6-test in 2.07s
+Apr 29, 2026 10:06:17 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 320
+Apr 29, 2026 10:06:17 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 321
+2026.04.29 22:06:19 INFO  compiling practica6-test (1 java source)
+2026.04.29 22:06:21 WARN  Unexpected javac output: Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing..
+2026.04.29 22:06:21 INFO  Note: Annotation processing is enabled because one or more processors were found
+2026.04.29 22:06:21 INFO  time: compiled Practica6-test in 2.08s
+Apr 29, 2026 10:06:25 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 399
+2026.04.29 22:06:26 INFO  compiling practica6-test (1 java source)
+2026.04.29 22:06:28 WARN  Unexpected javac output: Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing..
+2026.04.29 22:06:28 INFO  Note: Annotation processing is enabled because one or more processors were found
+2026.04.29 22:06:28 INFO  time: compiled Practica6-test in 2.25s
+Apr 29, 2026 10:06:29 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 426
+Apr 29, 2026 10:06:29 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 427
+Apr 29, 2026 10:06:32 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 446
+Apr 29, 2026 10:06:37 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 468
+Apr 29, 2026 10:06:37 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 469
+Apr 29, 2026 10:06:41 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 485
+2026.04.29 22:07:08 INFO  compiling practica6-test (1 java source)
+2026.04.29 22:07:10 WARN  Unexpected javac output: Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing..
+2026.04.29 22:07:10 INFO  Note: Annotation processing is enabled because one or more processors were found
+2026.04.29 22:07:10 INFO  time: compiled Practica6-test in 2.1s
+2026.04.29 22:07:15 INFO  compiling practica6-test (1 java source)
+2026.04.29 22:07:17 WARN  Unexpected javac output: Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing..
+2026.04.29 22:07:17 INFO  Note: Annotation processing is enabled because one or more processors were found
+2026.04.29 22:07:17 INFO  time: compiled Practica6-test in 2.26s
+Apr 29, 2026 10:07:18 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 556
+2026.04.29 22:07:20 INFO  compiling practica6-test (1 java source)
+2026.04.29 22:07:22 WARN  Unexpected javac output: Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing..
+2026.04.29 22:07:22 INFO  Note: Annotation processing is enabled because one or more processors were found
+2026.04.29 22:07:22 INFO  time: compiled Practica6-test in 2.15s
+2026.04.29 22:07:22 INFO  compiling practica6-test (1 java source)
+2026.04.29 22:07:23 WARN  Could not load snapshot text for C:\Users\Usuario\Documents\UNIVERSIDAD\INFRAESTRUCTURA\BLOQUE02\INFRAESTRCUTURA-CANCER_MAMA\Practica6Alumnos\src\test\java\com\uma\example\springuma\integration\InformeControllerWebTestClientIT.java
+2026.04.29 22:07:24 WARN  Could not load snapshot text for C:\Users\Usuario\Documents\UNIVERSIDAD\INFRAESTRUCTURA\BLOQUE02\INFRAESTRCUTURA-CANCER_MAMA\Practica6Alumnos\src\test\java\com\uma\example\springuma\integration\InformeControllerWebTestClientIT.java
+2026.04.29 22:07:25 WARN  Unexpected javac output: Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing..
+2026.04.29 22:07:25 INFO  Note: Annotation processing is enabled because one or more processors were found
+2026.04.29 22:07:25 INFO  time: compiled Practica6-test in 2.17s
+2026.04.29 22:07:25 INFO  compiling practica6-test (1 java source)
+2026.04.29 22:07:27 WARN  Unexpected javac output: Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing..
+2026.04.29 22:07:27 INFO  Note: Annotation processing is enabled because one or more processors were found
+2026.04.29 22:07:27 INFO  time: compiled Practica6-test in 2.05s
+2026.04.29 22:07:27 INFO  compiling practica6-test (1 java source)
+Apr 29, 2026 10:07:28 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 634
+2026.04.29 22:07:29 WARN  Unexpected javac output: Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing..
+2026.04.29 22:07:29 INFO  Note: Annotation processing is enabled because one or more processors were found
+2026.04.29 22:07:29 INFO  time: compiled Practica6-test in 2.26s
+2026.04.29 22:07:29 INFO  compiling practica6-test (1 java source)
+2026.04.29 22:07:31 WARN  Unexpected javac output: Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing..
+2026.04.29 22:07:31 INFO  Note: Annotation processing is enabled because one or more processors were found
+2026.04.29 22:07:31 INFO  time: compiled Practica6-test in 2.12s
+2026.04.29 22:07:31 INFO  compiling practica6-test (1 java source)
+2026.04.29 22:07:34 WARN  Unexpected javac output: Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing..
+2026.04.29 22:07:34 INFO  Note: Annotation processing is enabled because one or more processors were found
+2026.04.29 22:07:34 INFO  time: compiled Practica6-test in 2.18s
+2026.04.29 22:07:34 INFO  compiling practica6-test (1 java source)
+2026.04.29 22:07:36 WARN  Unexpected javac output: Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing..
+2026.04.29 22:07:36 INFO  Note: Annotation processing is enabled because one or more processors were found
+2026.04.29 22:07:36 INFO  time: compiled Practica6-test in 2.17s
+2026.04.29 22:07:36 INFO  compiling practica6-test (1 java source)
+2026.04.29 22:07:38 WARN  Unexpected javac output: Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing..
+2026.04.29 22:07:38 INFO  Note: Annotation processing is enabled because one or more processors were found
+2026.04.29 22:07:38 INFO  time: compiled Practica6-test in 2.21s
+2026.04.29 22:07:38 INFO  compiling practica6-test (1 java source)
+2026.04.29 22:07:40 WARN  Unexpected javac output: Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing.
+C:\Users\Usuario\Documents\UNIVERSIDAD\INFRAESTRUCTURA\BLOQUE02\INFRAESTRCUTURA-CANCER_MAMA\Practica6Alumnos\src\test\java\com\uma\example\springuma\integration\InformeControllerWebTestClientIT.java:1: error: semanticdb-javac: com.sourcegraph.shaded.com.sourcegraph.semanticdb_javac.CompilationUnitException: file:///C:/Users/Usuario/Documents/UNIVERSIDAD/INFRAESTRUCTURA/BLOQUE02/INFRAESTRCUTURA-CANCER_MAMA/Practica6Alumnos/src/test/java/com/uma/example/springuma/integration/InformeControllerWebTestClientIT.java
+
+package com.uma.example.springuma.integration;
+^
+  Caused by: java.lang.StringIndexOutOfBoundsException: Index 5720 out of bounds for length 5509
+
+  	at java.base/jdk.internal.util.Preconditions$1.apply(Preconditions.java:55)
+
+  	at java.base/jdk.internal.util.Preconditions$1.apply(Preconditions.java:52)
+
+  	at java.base/jdk.internal.util.Preconditions$4.apply(Preconditions.java:213)
+
+  	at java.base/jdk.internal.util.Preconditions$4.apply(Preconditions.java:210)
+
+  	at java.base/jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:98)
+
+  	at java.base/jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:106)
+
+  	at java.base/jdk.internal.util.Preconditions.checkIndex(Preconditions.java:302)
+
+  	at java.base/java.lang.String.checkIndex(String.java:4832)
+
+  	at java.base/java.lang.StringLatin1.charAt(StringLatin1.java:46)
+
+  	at java.base/java.lang.String.charAt(String.java:1555)
+
+  	at com.sourcegraph.shaded.com.sourcegraph.semanticdb_javac.SemanticdbVisitor.correctForTabs(SemanticdbVisitor.java:450)
+
+  	at com.sourcegraph.shaded.com.sourcegraph.semanticdb_javac.SemanticdbVisitor.semanticdbRange(SemanticdbVisitor.java:435)
+
+  	at com.sourcegraph.shaded.com.sourcegraph.semanticdb_javac.SemanticdbVisitor.emitSymbolOccurrence(SemanticdbVisitor.java:112)
+
+  	at com.sourcegraph.shaded.com.sourcegraph.semanticdb_javac.SemanticdbVisitor.resolveMethodTree(SemanticdbVisitor.java:282)
+
+  	at com.sourcegraph.shaded.com.sourcegraph.semanticdb_javac.SemanticdbVisitor.resolveNodes(SemanticdbVisitor.java:217)
+
+  	at com.sourcegraph.shaded.com.sourcegraph.semanticdb_javac.SemanticdbVisitor.buildTextDocument(SemanticdbVisitor.java:96)
+
+  	at com.sourcegraph.shaded.com.sourcegraph.semanticdb_javac.SemanticdbTaskListener.onFinishedAnalyze(SemanticdbTaskListener.java:116)
+
+  	at com.sourcegraph.shaded.com.sourcegraph.semanticdb_javac.SemanticdbTaskListener.finished(SemanticdbTaskListener.java:79)
+
+  	at jdk.compiler/com.sun.tools.javac.api.ClientCodeWrapper$WrappedTaskListener.finished(ClientCodeWrapper.java:876)
+
+  	at jdk.compiler/com.sun.tools.javac.api.MultiTaskListener.finished(MultiTaskListener.java:133)
+
+  	at jdk.compiler/com.sun.tools.javac.main.JavaCompiler.flow(JavaCompiler.java:1436)
+
+  	at jdk.compiler/com.sun.tools.javac.main.JavaCompiler.flow(JavaCompiler.java:1393)
+
+  	at jdk.compiler/com.sun.tools.javac.main.JavaCompiler.compile(JavaCompiler.java:976)
+
+  	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:319)
+
+  	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:178)
+
+  	at jdk.compiler/com.sun.tools.javac.Main.compile(Main.java:64)
+
+  	at jdk.compiler/com.sun.tools.javac.Main.main(Main.java:50)
+
+1 error.
+2026.04.29 22:07:40 INFO  Note: Annotation processing is enabled because one or more processors were found
+2026.04.29 22:07:40 WARN  javac exited with exit code 1
+2026.04.29 22:07:40 INFO  time: compiled Practica6-test in 2.02s
+2026.04.29 22:07:40 INFO  compiling practica6-test (1 java source)
+2026.04.29 22:07:42 WARN  Unexpected javac output: Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing..
+2026.04.29 22:07:42 INFO  Note: Annotation processing is enabled because one or more processors were found
+2026.04.29 22:07:42 INFO  time: compiled Practica6-test in 2.17s
+2026.04.29 22:07:42 INFO  compiling practica6-test (1 java source)
+Apr 29, 2026 10:07:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 732
+2026.04.29 22:07:45 WARN  Unexpected javac output: Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing..
+2026.04.29 22:07:45 INFO  Note: Annotation processing is enabled because one or more processors were found
+2026.04.29 22:07:45 INFO  time: compiled Practica6-test in 2.2s
+2026.04.29 22:07:45 INFO  compiling practica6-test (1 java source)
+2026.04.29 22:07:47 WARN  Unexpected javac output: Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing..
+2026.04.29 22:07:47 INFO  Note: Annotation processing is enabled because one or more processors were found
+2026.04.29 22:07:47 INFO  time: compiled Practica6-test in 2.23s
+2026.04.29 22:08:02 INFO  compiling practica6-test (1 java source)
+2026.04.29 22:08:04 WARN  Unexpected javac output: Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing..
+2026.04.29 22:08:04 INFO  Note: Annotation processing is enabled because one or more processors were found
+2026.04.29 22:08:04 INFO  time: compiled Practica6-test in 2.18s
+2026.04.29 22:08:04 INFO  compiling practica6-test (1 java source)
+2026.04.29 22:08:06 WARN  Unexpected javac output: Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing..
+2026.04.29 22:08:06 INFO  Note: Annotation processing is enabled because one or more processors were found
+2026.04.29 22:08:06 INFO  time: compiled Practica6-test in 2.07s
+Apr 29, 2026 10:08:16 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 841
+Apr 29, 2026 10:08:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 856
+Apr 29, 2026 10:12:28 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 900
+2026.04.29 22:12:28 INFO  compiling practica6-test (1 java source)
+2026.04.29 22:12:30 WARN  Unexpected javac output: Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing..
+2026.04.29 22:12:30 INFO  Note: Annotation processing is enabled because one or more processors were found
+2026.04.29 22:12:30 INFO  time: compiled Practica6-test in 2.24s
+2026.04.29 22:12:38 INFO  compiling practica6-test (1 java source)
+2026.04.29 22:12:38 WARN  Could not load snapshot text for C:\Users\Usuario\Documents\UNIVERSIDAD\INFRAESTRUCTURA\BLOQUE02\INFRAESTRCUTURA-CANCER_MAMA\Practica6Alumnos\src\test\java\com\uma\example\springuma\integration\ImagenControllerWebTestClientIT.java
+2026.04.29 22:12:39 WARN  Could not load snapshot text for C:\Users\Usuario\Documents\UNIVERSIDAD\INFRAESTRUCTURA\BLOQUE02\INFRAESTRCUTURA-CANCER_MAMA\Practica6Alumnos\src\test\java\com\uma\example\springuma\integration\ImagenControllerWebTestClientIT.java
+2026.04.29 22:12:41 WARN  Unexpected javac output: Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing..
+2026.04.29 22:12:41 INFO  Note: Annotation processing is enabled because one or more processors were found
+2026.04.29 22:12:41 INFO  time: compiled Practica6-test in 2.92s
+2026.04.29 22:12:41 INFO  compiling practica6-test (1 java source)
+Apr 29, 2026 10:12:41 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 959
+Apr 29, 2026 10:12:42 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 960
+Apr 29, 2026 10:12:42 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 963
+Apr 29, 2026 10:12:42 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 964
+Apr 29, 2026 10:12:42 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 966
+Apr 29, 2026 10:12:42 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 968
+2026.04.29 22:12:43 WARN  Unexpected javac output: Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing.
+C:\Users\Usuario\Documents\UNIVERSIDAD\INFRAESTRUCTURA\BLOQUE02\INFRAESTRCUTURA-CANCER_MAMA\Practica6Alumnos\src\test\java\com\uma\example\springuma\integration\ImagenControllerWebTestClientIT.java:2: error: semanticdb-javac: com.sourcegraph.shaded.com.sourcegraph.semanticdb_javac.CompilationUnitException: file:///C:/Users/Usuario/Documents/UNIVERSIDAD/INFRAESTRUCTURA/BLOQUE02/INFRAESTRCUTURA-CANCER_MAMA/Practica6Alumnos/src/test/java/com/uma/example/springuma/integration/ImagenControllerWebTestClientIT.java
+
+package com.uma.example.springuma.integration;
+^
+  Caused by: java.lang.StringIndexOutOfBoundsException: Index 5755 out of bounds for length 5682
+
+  	at java.base/jdk.internal.util.Preconditions$1.apply(Preconditions.java:55)
+
+  	at java.base/jdk.internal.util.Preconditions$1.apply(Preconditions.java:52)
+
+  	at java.base/jdk.internal.util.Preconditions$4.apply(Preconditions.java:213)
+
+  	at java.base/jdk.internal.util.Preconditions$4.apply(Preconditions.java:210)
+
+  	at java.base/jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:98)
+
+  	at java.base/jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:106)
+
+  	at java.base/jdk.internal.util.Preconditions.checkIndex(Preconditions.java:302)
+
+  	at java.base/java.lang.String.checkIndex(String.java:4832)
+
+  	at java.base/java.lang.StringLatin1.charAt(StringLatin1.java:46)
+
+  	at java.base/java.lang.String.charAt(String.java:1555)
+
+  	at com.sourcegraph.shaded.com.sourcegraph.semanticdb_javac.SemanticdbVisitor.correctForTabs(SemanticdbVisitor.java:450)
+
+  	at com.sourcegraph.shaded.com.sourcegraph.semanticdb_javac.SemanticdbVisitor.semanticdbRange(SemanticdbVisitor.java:435)
+
+  	at com.sourcegraph.shaded.com.sourcegraph.semanticdb_javac.SemanticdbVisitor.emitSymbolOccurrence(SemanticdbVisitor.java:112)
+
+  	at com.sourcegraph.shaded.com.sourcegraph.semanticdb_javac.SemanticdbVisitor.resolveMethodTree(SemanticdbVisitor.java:282)
+
+  	at com.sourcegraph.shaded.com.sourcegraph.semanticdb_javac.SemanticdbVisitor.resolveNodes(SemanticdbVisitor.java:217)
+
+  	at com.sourcegraph.shaded.com.sourcegraph.semanticdb_javac.SemanticdbVisitor.buildTextDocument(SemanticdbVisitor.java:96)
+
+  	at com.sourcegraph.shaded.com.sourcegraph.semanticdb_javac.SemanticdbTaskListener.onFinishedAnalyze(SemanticdbTaskListener.java:116)
+
+  	at com.sourcegraph.shaded.com.sourcegraph.semanticdb_javac.SemanticdbTaskListener.finished(SemanticdbTaskListener.java:79)
+
+  	at jdk.compiler/com.sun.tools.javac.api.ClientCodeWrapper$WrappedTaskListener.finished(ClientCodeWrapper.java:876)
+
+  	at jdk.compiler/com.sun.tools.javac.api.MultiTaskListener.finished(MultiTaskListener.java:133)
+
+  	at jdk.compiler/com.sun.tools.javac.main.JavaCompiler.flow(JavaCompiler.java:1436)
+
+  	at jdk.compiler/com.sun.tools.javac.main.JavaCompiler.flow(JavaCompiler.java:1393)
+
+  	at jdk.compiler/com.sun.tools.javac.main.JavaCompiler.compile(JavaCompiler.java:976)
+
+  	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:319)
+
+  	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:178)
+
+  	at jdk.compiler/com.sun.tools.javac.Main.compile(Main.java:64)
+
+  	at jdk.compiler/com.sun.tools.javac.Main.main(Main.java:50)
+
+1 error.
+2026.04.29 22:12:43 INFO  Note: Annotation processing is enabled because one or more processors were found
+2026.04.29 22:12:43 WARN  javac exited with exit code 1
+2026.04.29 22:12:43 INFO  time: compiled Practica6-test in 2.12s
+2026.04.29 22:12:43 INFO  compiling practica6-test (1 java source)
+2026.04.29 22:12:45 WARN  Unexpected javac output: Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing..
+2026.04.29 22:12:45 INFO  Note: Annotation processing is enabled because one or more processors were found
+2026.04.29 22:12:45 INFO  time: compiled Practica6-test in 2.5s
+2026.04.29 22:12:45 INFO  compiling practica6-test (1 java source)
+Apr 29, 2026 10:12:47 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 997
+Apr 29, 2026 10:12:47 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1000
+Apr 29, 2026 10:12:47 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1001
+Apr 29, 2026 10:12:47 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 998
+Apr 29, 2026 10:12:47 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1002
+Apr 29, 2026 10:12:48 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1010
+2026.04.29 22:12:48 WARN  Unexpected javac output: Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing..
+2026.04.29 22:12:48 INFO  Note: Annotation processing is enabled because one or more processors were found
+2026.04.29 22:12:48 INFO  time: compiled Practica6-test in 2.52s
+2026.04.29 22:12:48 INFO  compiling practica6-test (1 java source)
+Apr 29, 2026 10:12:49 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1014
+Apr 29, 2026 10:12:50 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1016
+2026.04.29 22:12:51 WARN  Unexpected javac output: Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing..
+2026.04.29 22:12:51 INFO  Note: Annotation processing is enabled because one or more processors were found
+2026.04.29 22:12:51 INFO  time: compiled Practica6-test in 2.56s
+Apr 29, 2026 10:12:51 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1017
+Apr 29, 2026 10:12:51 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1019
+2026.04.29 22:12:51 INFO  compiling practica6-test (1 java source)
+2026.04.29 22:12:53 WARN  Unexpected javac output: Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing..
+2026.04.29 22:12:53 INFO  Note: Annotation processing is enabled because one or more processors were found
+2026.04.29 22:12:53 INFO  time: compiled Practica6-test in 2.42s
+Apr 29, 2026 10:12:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1030
+Apr 29, 2026 10:12:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1032
+Apr 29, 2026 10:12:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1034
+Apr 29, 2026 10:12:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1024
+Apr 29, 2026 10:12:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1033
+Apr 29, 2026 10:12:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1036
+2026.04.29 22:12:53 INFO  compiling practica6-test (1 java source)
+Apr 29, 2026 10:12:56 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1043
+Apr 29, 2026 10:12:56 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1044
+Apr 29, 2026 10:12:56 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1045
+Apr 29, 2026 10:12:56 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1040
+Apr 29, 2026 10:12:56 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1037
+Apr 29, 2026 10:12:56 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1041
+Apr 29, 2026 10:12:56 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1046
+Apr 29, 2026 10:12:56 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1039
+Apr 29, 2026 10:12:56 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1049
+2026.04.29 22:12:56 WARN  Unexpected javac output: Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing..
+2026.04.29 22:12:56 INFO  Note: Annotation processing is enabled because one or more processors were found
+2026.04.29 22:12:56 INFO  time: compiled Practica6-test in 2.33s
+2026.04.29 22:12:56 INFO  compiling practica6-test (1 java source)
+2026.04.29 22:12:59 WARN  Unexpected javac output: Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing..
+2026.04.29 22:12:59 INFO  Note: Annotation processing is enabled because one or more processors were found
+2026.04.29 22:12:59 INFO  time: compiled Practica6-test in 2.13s
+Apr 29, 2026 10:13:25 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
